@@ -28,3 +28,17 @@ December 09, 2021 - 04:12:12
 Django version 2.2.4, using settings 'tournament_manager.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
+
+
+##Open Browser
+Open your browser in case u want to navigate to the admin section ==> `http://127.0.0.1:8000/admin/login` 
+In case you want to navigate to the other part ==> `http://127.0.0.1:8000/admin/`
+You will see a login screen
+Password ==> 
+```
+username: erick
+password: erick
+```
+
+
+
